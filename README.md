@@ -4,5 +4,12 @@ USD to INR
 
 
 
+
+
+
+
+
+
+
 INR to USD
 ![image](https://github.com/AuRa123456/Currency-Converter/assets/97120898/3cecf95f-284d-4992-b7e7-a6ea6502c1ee)
