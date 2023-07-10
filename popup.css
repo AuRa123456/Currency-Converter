@@ -1,0 +1,85 @@
+body {
+  width: 200px;
+  height: 100px;
+  padding: 100px;
+  font-family: Arial;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  position: fixed;
+  top: 30px;
+  left: 95px;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+img#dollar-icon {
+  position: fixed;
+  top: 95px;
+  left: 209px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  cursor: pointer;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+img#inr-icon {
+  position: fixed;
+  top: 95px;
+  left: 159px;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+.input-group {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  display: none;
+}
+
+input {
+  position: absolute;
+  background-color: #ffffff;
+  top: 153px;
+  left: 100px;
+  padding: 5px;
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 2px solid black;
+}
+
+button {
+  position: absolute;
+  top: 200px;
+  left: 173px;
+  padding: 6px 10px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: rgb(25, 123, 123);
+}
+
+#result {
+  position: relative;
+  width: 300px;
+  top: 120px;
+  left: -50px;
+  font-size: 18px;
+  font-weight: bold;
+}

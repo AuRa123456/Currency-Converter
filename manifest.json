@@ -1,0 +1,17 @@
+{
+    "name": "Dollar to Rupees Converter",
+    "version": "0.1",
+    "manifest_version": 3,
+    "description": "Converts US dollars to Indian rupees",
+
+    "action": {
+      "default_popup": "popup.html"
+    },
+
+    "icons": {
+        "128": "logo.png"
+      },
+    
+    "permissions": ["activeTab"]
+}
+  
