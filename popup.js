@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   var convertButton = document.getElementById('convert-button');
-  var input = document.getElementById('dollar-input');
+  var input = document.getElementById('amount-input');
   var resultElement = document.getElementById('result');
   var dollarIcon = document.getElementById('dollar-icon');
   var inrIcon = document.getElementById('inr-icon');
